@@ -1,0 +1,27 @@
+body {
+  background-color: #D6E2F0;
+}
+#mainbox {
+  width: 250px;
+  margin: auto;
+  padding: 15px;
+  border-radius: 20px;
+  background-color: #FFFFFF;
+}
+img {
+  width: 100%;
+  border-radius: 10px
+}
+h1, p {
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+}
+h1 {
+  font-weight: 700;
+  color: #1F3251;
+}
+p {
+  font-weight: 400;
+  font-size: 15px;
+  color: #7B879D;
+}
